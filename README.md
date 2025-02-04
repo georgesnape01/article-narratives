@@ -2,7 +2,7 @@
 
 This project focuses on assigning various narratives and sub-narratives to articles.
 
-# Project Description & Objective
+# Project Description
 
 There are 20 narratives and 84 sub-narratives. The primary goal is to train a model to assign one or more sub-narratives to 50 test articles, using 400 training articles, although narrative predictions are also required. These articles typically focus on topics like climate change, international politics, and war, each containing approximately 500 words.
 
